@@ -8,6 +8,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
+
 /**
  * A wrapper class for the implementation of a single iteration of the iterative
  * PageRank algorithm.
